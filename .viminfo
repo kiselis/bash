@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1616623852,,"wq"
 :q!
 |2,0,1616538466,,"q!"
-:wq
-|2,0,1616284120,,"wq"
 :q
 |2,0,1615061458,,"q"
 
@@ -43,20 +43,20 @@
 # global variables:
 
 # File marks:
-'0  1  0  ~/meniu.sh
-|4,48,1,0,1616538466,"~/meniu.sh"
+'0  13  23  ~/meniu.txt
+|4,48,13,23,1616623852,"~/meniu.txt"
 '1  1  0  ~/meniu.sh
-|4,49,1,0,1616311582,"~/meniu.sh"
-'2  29  34  ~/meniu.sh
-|4,50,29,34,1616284120,"~/meniu.sh"
+|4,49,1,0,1616538466,"~/meniu.sh"
+'2  1  0  ~/meniu.sh
+|4,50,1,0,1616311582,"~/meniu.sh"
 '3  29  34  ~/meniu.sh
 |4,51,29,34,1616284120,"~/meniu.sh"
 '4  29  34  ~/meniu.sh
 |4,52,29,34,1616284120,"~/meniu.sh"
 '5  29  34  ~/meniu.sh
 |4,53,29,34,1616284120,"~/meniu.sh"
-'6  1  0  ~/meniu.sh
-|4,54,1,0,1616284005,"~/meniu.sh"
+'6  29  34  ~/meniu.sh
+|4,54,29,34,1616284120,"~/meniu.sh"
 '7  1  0  ~/meniu.sh
 |4,55,1,0,1616284005,"~/meniu.sh"
 '8  1  0  ~/meniu.sh
@@ -65,10 +65,24 @@
 |4,57,1,0,1616284005,"~/meniu.sh"
 
 # Jumplist (newest first):
+-'  13  23  ~/meniu.txt
+|4,39,13,23,1616623852,"~/meniu.txt"
+-'  1  0  ~/meniu.txt
+|4,39,1,0,1616623814,"~/meniu.txt"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616538466,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616538466,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616311582,"~/meniu.sh"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616311582,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616284120,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616284120,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616284120,"~/meniu.sh"
 -'  29  34  ~/meniu.sh
 |4,39,29,34,1616284120,"~/meniu.sh"
 -'  29  34  ~/meniu.sh
@@ -78,7 +92,13 @@
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616284095,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
+|4,39,1,0,1616284095,"~/meniu.sh"
+-'  1  0  ~/meniu.sh
 |4,39,1,0,1616284005,"~/meniu.sh"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616284005,"~/meniu.sh"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616283912,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616283912,"~/meniu.sh"
 -'  1  0  ~/meniu.txt
@@ -153,42 +173,22 @@
 |4,39,29,34,1616283675,"~/meniu.sh"
 -'  29  34  ~/meniu.sh
 |4,39,29,34,1616283675,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616283675,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616283675,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616283675,"~/meniu.sh"
+-'  29  34  ~/meniu.sh
+|4,39,29,34,1616283675,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616283630,"~/meniu.sh"
 -'  1  0  ~/meniu.sh
 |4,39,1,0,1616283630,"~/meniu.sh"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
--'  1  0  ~/meniu.txt
-|4,39,1,0,1616283626,"~/meniu.txt"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616283630,"~/meniu.sh"
+-'  1  0  ~/meniu.sh
+|4,39,1,0,1616283630,"~/meniu.sh"
 -'  1  0  ~/meniu.txt
 |4,39,1,0,1616283626,"~/meniu.txt"
 -'  1  0  ~/meniu.txt
@@ -268,6 +268,14 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/meniu.txt
+	*	1616623847	0
+	"	13	23
+	^	13	24
+	.	14	0
+	+	13	70
+	+	14	0
+
 > ~/meniu.sh
 	*	1616538461	0
 	"	1	0
@@ -333,10 +341,6 @@
 	+	21	84
 	+	26	48
 	+	29	28
-
-> ~/meniu.txt
-	*	1616283881	0
-	"	1	0
 
 > ~/telnet2.sh
 	*	1616235822	0

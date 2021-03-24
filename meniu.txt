@@ -11,9 +11,5 @@ Aleksandra:Galvelienė:Panevėžys
 James:McAteer:Lanark
 William:Porteous:Pertas
 Stavros:Koinakis:Falkirk
-Mark:Gill:Edinburgas
-Robert:Drummond:Halifaksas
-Nicola:Stanley:Halifaksas
-Praveen:Vijaykumar:Blackburn
 Adelė:Kiselytė:Mančesteris
 Agnė:Bilotaitė:Vilnius
